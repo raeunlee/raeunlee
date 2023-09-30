@@ -1,5 +1,7 @@
 <div align=center>
-<h2 align="center"><b> 🖥 STACKS & TOOLS 🍀 </b></h2>
+<h3 align="center"><b> RaeunLee👩🏻‍💻 </b></h3>
+  
+<h3 align="center"><b> ⚙️ STACKS & TOOLS 🔧 </b></h3>
 <p align="center">
 <img alt="Java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -23,4 +25,9 @@
 <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/> <img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft Azure-0078D4.svg?&style=for-the-badge&logo=Microsoft Azure&logoColor=white"/> 
 <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> 
 </p>
+<h3 align="center"><b> TechBlog  </b></h3>
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-raeun&theme=vue)](https://dev-raeun.tistory.com/)
+
 </div>
+
