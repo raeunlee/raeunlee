@@ -1,6 +1,7 @@
 <div align=center>
 <h3 align="center"><b> RaeunLee👩🏻‍💻 </b></h3>
-  
+Mobile System Engineering student at DKU <br>
+Love 😊 Team Project 👥 & New Technology 🖥
 <h3 align="center"><b> ⚙️ STACKS & TOOLS 🔧 </b></h3>
 <p align="center">
 <img alt="Java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
